@@ -1,4 +1,8 @@
 # cloudtoolkit
+Our focus have change:
+We now work with Groovy. We think, we will be able to accomplish more with it.
+https://github.com/ThaliaSolution/GroovyToolkit
+
 Console scripts and web interface for SmartOS and eventually others platforms. Backup, clone, migration...
 
 If you want to help us please join us in our Atlassian Jira at https://devnet.thaliasolution.com/jira/
